@@ -1,0 +1,6 @@
+/target
+/documents/
+
+Cargo.lock
+/src/program1.rs
+/src/program2.rs
